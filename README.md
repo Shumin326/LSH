@@ -11,7 +11,7 @@ This is a course project for ESE 545 data mining at University of Pennsylvania.
 - results:
 1. similar review is found given text
 
-![](query_found)
+![](query_found.png)
 
 2. similar review is not found given text
 
