@@ -17,6 +17,6 @@ This is a course project for ESE 545 data mining at University of Pennsylvania.
 
 ![](query_no)
 
-3. the csv file containing all the similar reviews in the dataset
+3. the csv file containing all the similar reviews in the dataset. The second and fourth column the similar pair of reviews, the first and third columns are corresponding reviewerID.
 
 ![](csv_file.png)
