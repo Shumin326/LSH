@@ -17,5 +17,6 @@ This is a course project for ESE 545 data mining at University of Pennsylvania.
 
 ![](query_no)
 
-3. all the similar reviews in the dataset
+3. the csv file containing all the similar reviews in the dataset
+
 ![](csv_file.png)
