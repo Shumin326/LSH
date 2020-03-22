@@ -9,4 +9,13 @@ This is a course project for ESE 545 data mining at University of Pennsylvania.
 - The whole process would be done within 10 minutes!!
 
 - results:
+1. similar review is found given text
+
+![](query_found)
+
+2. similar review is not found given text
+
+![](query_no)
+
+3. all the similar reviews in the dataset
 ![](csv_file.png)
