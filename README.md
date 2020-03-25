@@ -1,6 +1,6 @@
 # Nearest-Neighbor-for-Amazon-Reivews
 
-This is a course project for ESE 545 data mining at University of Pennsylvania.
+This is a course homework project for ESE 545 data mining at University of Pennsylvania.
 
 - The goal is to find the nearest neighbors (Jaccard distance&lt;0.2) for 150K+ Amazon reviews as efficient as possible. And dump all the similar reviews into a csv file.
 
