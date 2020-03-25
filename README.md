@@ -2,7 +2,8 @@
 
 This is a course homework project for ESE 545 data mining at University of Pennsylvania.
 
-- The goal is to find the nearest neighbors (Jaccard distance&lt;0.2) for 150K+ Amazon reviews as efficient as possible. And dump all the similar reviews into a csv file.
+- First goal is to find the nearest neighbors (Jaccard distance&lt;0.2) for 150K+ Amazon reviews as efficient as possible. And dump all the similar reviews into a csv file.
+- Second goal is to find the most similar review in the amazon review dataset given a text r(any text).
 
 - k-shingle(a.k.a k-gram), Min-hashing and LSH algorithms are used to dramatically speed up the process.
 
